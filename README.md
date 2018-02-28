@@ -18,3 +18,4 @@
 <img width="514" height="913" src="https://github.com/Kurarion/Noter/raw/master/Screenshots/12.png"/>
 <img width="514" height="913" src="https://github.com/Kurarion/Noter/raw/master/Screenshots/13.png"/>
 <img width="514" height="913" src="https://github.com/Kurarion/Noter/raw/master/Screenshots/14.png"/>
+
