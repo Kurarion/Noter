@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Noter"></dbname>
+
+    <version value="3"></version>
+
+    <list>
+        <mapping class="com.example.cocoa.myapplication.FilterPackage.Filter"></mapping>
+    </list>
+</litepal>
